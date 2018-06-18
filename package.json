@@ -1,0 +1,9 @@
+{
+  "name": "gitkit.js",
+  "version": "0.0.1",
+  "main": "src/index.js",
+  "repository": "https://github.com/MagicMarvMan/gitkit.js.git",
+  "author": "MagicMarvMan <24806960+MagicMarvMan@users.noreply.github.com>",
+  "license": "MIT",
+  "private": false
+}
